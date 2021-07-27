@@ -1,0 +1,12 @@
+.direnv
+.pre-commit-config.yaml
+/target
+result
+result-*
+
+
+# Added by cargo
+#
+# already existing elements were commented out
+
+#/target
